@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">nevon-online-app</string>
+
+    //appointment
+    <string name="task">My Appointments</string>
+    <string name="create_tasks">Confirm Appointment</string>
+    <string name="title">Hair Style Code</string>
+    <string name="data">Date</string>
+    <string name="timer">Time</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_task">New Appointment</string>
+    <string name="to_edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="empty_text">Ops! Error!</string>
+</resources>
